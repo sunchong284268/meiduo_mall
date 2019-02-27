@@ -18,3 +18,7 @@ git config credential.helper 'cache --timeout=3600'
 长期存储密码：
 git config --global credential.helper store
 >>>>>>> 48985987d28cc5618c4595a8fa7d5642bed506c1
+
+
+c =3
+d =4
