@@ -20,5 +20,16 @@ git config --global credential.helper store
 >>>>>>> 48985987d28cc5618c4595a8fa7d5642bed506c1
 
 
+<<<<<<< HEAD
 c =3
 d =4
+=======
+<<<<<<< HEAD
+张三的工作
+获取项目：克隆项目到本地，配置身份信息
+
+1.克隆项目到本地
+
+  cd Desktop/zhangsan/
+=======
+>>>>>>> 4acdf2e43b079aaeb840553ae208d347e7c77332
