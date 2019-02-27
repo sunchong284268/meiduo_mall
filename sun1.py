@@ -18,3 +18,13 @@ git config credential.helper 'cache --timeout=3600'
 长期存储密码：
 git config --global credential.helper store
 >>>>>>> 48985987d28cc5618c4595a8fa7d5642bed506c1
+
+
+<<<<<<< HEAD
+张三的工作
+获取项目：克隆项目到本地，配置身份信息
+
+1.克隆项目到本地
+
+  cd Desktop/zhangsan/
+=======
